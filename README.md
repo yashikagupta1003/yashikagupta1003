@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashika Gupta</h1>
-<h3 align="center">A passionate Data Science/MLops Techie from India</h3>
+<h3 align="center">A passionate Data Science/Machine Learning Techie from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i2.wp.com/www.animefeminist.com/wp-content/uploads/2020/04/type-computer-squid-girl.gif?fit=350%2C197&ssl=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikagupta1003&label=Profile%20views&color=0e75b6&style=flat" alt="yashikagupta1003" /> </p>
 
