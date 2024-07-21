@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **People with whom I can share and learn with**
 
-- 📫 How to reach me **yashikagupta1003@gmail.com**
+- 📫 How to reach me **yashikakgupta@gmail.com**
 
 - ⚡ Fun fact **I am Energetic and Eager to Explore**
 
